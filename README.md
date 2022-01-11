@@ -1,5 +1,5 @@
 - 👋 Hi, I’m YUJIN
-- 💻 learning Mysql + JSP + Spring
+- 💻 learning Mysql + JSP + Spring + Algorithm
 - 💻 learning R programming
 <!---
 YUYUYUJINN/YUYUYUJINN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
