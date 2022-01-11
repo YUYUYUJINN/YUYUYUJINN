@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YUYUYUJINN
+- 👋 Hi, I’m YUJIN
 - 💻 learning Mysql + JSP + Spring
 - 💻 learning R programming
 <!---
